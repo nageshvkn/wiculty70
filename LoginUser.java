@@ -8,7 +8,7 @@ public class LoginUser
 		
 		int i;
 	
-		for(i=1;i<=25;i++) {
+		for(i=1;i<=30;i++) {
 			System.out.println("Number: " + i);
 		}
 
